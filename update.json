@@ -1,0 +1,10 @@
+{
+  "production": {
+    "versionCode": 2,
+    "versionName": "1.0.0",
+    "title": "Update Penting!",
+    "description": "Menambahkan fitur PIN Parental Control.",
+    "downloadUrl": "https://raw.githubusercontent.com/UserAnda/ajtv-store/main/app-release.apk",
+    "forceUpdate": false
+  }
+}
