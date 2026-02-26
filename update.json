@@ -1,10 +1,10 @@
 {
   "production": {
-    "versionCode": 2,
-    "versionName": "2.0.0",
-    "title": "ADA UPDATE NIH",
-    "description": "🆕 Auto update\n🆕 PIN Parental Kontrol Pada Menu 18+\n🆕 Notif schedule\n🆕 UI pengaturan simple\n🆕 Brightness+Volume di dalam pemutar\n👨‍🔧 Kompress ukuran apk lebih kecil",
-    "downloadUrl": "https://www.mediafire.com/file/ozahnnvjxztezo7/NEW+UPDATE.apk/file",
+    "versionCode": 3,
+    "versionName": "3.0.0",
+    "title": "UPDATE FIX BUG",
+    "description": "👨‍🔧 Fix bug dibeberapa device\n👨‍🔧 Fix bug remote untuk pengguna android tv",
+    "downloadUrl": "https://www.mediafire.com/file/9ejnil6w129gcph/FIX+BUG.apk/file",
     "forceUpdate": false
   }
 }
