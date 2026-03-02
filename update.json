@@ -1,10 +1,10 @@
 {
   "production": {
-    "versionCode": 3,
-    "versionName": "3.0.0",
-    "title": "UPDATE FIX BUG",
-    "description": "👨‍🔧 Fix bug dibeberapa device\n👨‍🔧 Fix bug remote untuk pengguna android tv",
-    "downloadUrl": "https://www.mediafire.com/file/9ejnil6w129gcph/FIX+BUG.apk/file",
+    "versionCode": 4,
+    "versionName": "4.0.0",
+    "title": "UPDATE FIX LOAD LAMA",
+    "description": "👨‍🔧 Perbaiki masalah load saat buka app\n📝 Selesai download langsung install saja biar token aman.",
+    "downloadUrl": "https://www.mediafire.com/file/0ivp8hsgq2wncht/FIX_LOAD.apk/file",
     "forceUpdate": false
   }
 }
