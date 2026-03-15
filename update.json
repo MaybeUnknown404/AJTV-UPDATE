@@ -1,10 +1,10 @@
 {
   "production": {
-    "versionCode": 5,
-    "versionName": "5.0.0",
-    "title": "UPDATE LAGI YA 😁",
-    "description": "🆕 DropDown menu\n🆕 Custom tema background\n🆕 Smooth player+ Clean UI",
-    "downloadUrl": "https://www.mediafire.com/file/2djlrag6ooqnf4i/FixLemot.apk/file",
+    "versionCode": 6,
+    "versionName": "6.0.0",
+    "title": "UPDATE BOS",
+    "description": "🛠️ Fix Search\n 🛠️ Fix Dropdown stb\n🛠️ Fix tidak dapat notif live",
+    "downloadUrl": "https://www.mediafire.com/file/lt42frna3ak0wob/updated.apk/file",
     "forceUpdate": false
   }
 }
