@@ -1,9 +1,9 @@
 {
   "production": {
-    "versionCode": 7,
-    "versionName": "7.0.0",
+    "versionCode": 10,
+    "versionName": "10.0.0",
     "title": "UPDATE BOS",
-    "description": "🛠️ Screen Mode\n🛠️ Fix loaded live event",
+    "description": "🛠️ Perbaiki bug di beberapa device\n🛠️ Perbaiki background tema custom\n💦 Fix Blink di menu 18+",
     "downloadUrl": "https://www.mediafire.com/file/xvodc2qtttzaxea/V7.apk/file",
     "forceUpdate": false
   }
